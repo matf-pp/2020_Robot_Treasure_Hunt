@@ -1,3 +1,5 @@
+###Robot Treasure Hunt
+
 ## Kratak opis igre
 
 Cilj igrice jeste da robot (tj. igrač) dođe do blaga. Igrač se krece po poljima koristeći strelice gore, dole, levo, desno. Na početku igrač ima tri života. Ukoliko naiđe na bombu igrač gubi jedan život. Ukoliko naiđe na uragan ne gubi život ali ne može stati na to polje gde je uragan već mora da traži drugi put kojim će ići. Igra se završava kada robot dođe do blaga ili kada izgubi sva tri života.
