@@ -1,4 +1,4 @@
-### Robot Treasure Hunt
+## Robot Treasure Hunt
 
 ## Kratak opis igre
 
