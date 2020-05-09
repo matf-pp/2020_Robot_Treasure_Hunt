@@ -20,7 +20,7 @@ Od biblioteka korišćene su:
 ## Pokretanje
 
 Program radi na svakom računaru koji ima instaliran gore navedeni softver.
-Program pokrećemo iz konzole komandom `python3 igrica.py`.
+Program pokrećemo iz konzole komandom `python3 robot_treasure_hunt.py`.
 Za instalaciju potrebnih biblioteka na linux-u možete koristiti sledeće komande u terminalu:
 
 1) Za tkinter:  `sudo apt-get install python3-tk`  
