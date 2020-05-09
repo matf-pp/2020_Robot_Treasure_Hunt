@@ -29,7 +29,7 @@ Za instalaciju potrebnih biblioteka na linux-u možete koristiti sledeće komand
 
 3) Za numpy:  `pip3 install numpy` 
 
-Takođe, igrica se može pokrenuti pomoću exe fajla koji se nalazi u folderu output/robot_treasure_hunt.
+Takođe, igrica se može pokrenuti pomoću .exe fajla koji se nalazi u folderu output/robot_treasure_hunt.
 
 
 
